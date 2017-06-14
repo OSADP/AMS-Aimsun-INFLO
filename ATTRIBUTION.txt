@@ -1,0 +1,5 @@
+Key contributors to the development of the INFLO-Aimsun Interface
+1. TSS-Transport Simulation Systems (developed this interface for Aimsun).
+2. Booz Allen Hamilton (developed the final version of the interface with Vissim).
+3. Kittelson Associates (redeveloped the original interface with Vissim).
+4. Texas Transportation Institute (developed the original interface with Vissim).

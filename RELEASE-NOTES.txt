@@ -1,0 +1,31 @@
+- Release note identifier
+INFLO-Aimsun interface, April 2017, version 1.0
+
+- What's New
+First release.
+
+- System Requirements
+Aimsun 8.0
+Aimsun 8.0 platformSDK
+
+- Features and changes
+First release.
+
+- Outstanding issues
+None.
+
+- Installation guide
+Obtain from TSS-Transport Simulation Systems (info@aimsun.com) a license of the platfromSDK.
+Compile the supplied source code.
+Copy the compiled library and the provided .xml in the folder where Aimsun plugins are stored (Aimsun 8.0\plugins).
+
+- Known Issues
+None.
+
+- Troubleshooting
+support@aimsun.com
+
+- FAQ
+
+- Other Resources and Links
+www.aimsun.com

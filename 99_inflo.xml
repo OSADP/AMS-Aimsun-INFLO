@@ -1,0 +1,5 @@
+<plugin>
+	<name>INFLOPlugin</name>
+	<lib>inflo8</lib>
+	<location>INFLOPlugin_</location>
+</plugin>
